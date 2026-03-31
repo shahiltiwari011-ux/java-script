@@ -37,3 +37,11 @@ let stringnumber = String(sommenumber)
 console.log(stringnumber)
 
 console.log(typeof stringnumber)
+
+
+
+
+
+// *********************Operation*************************
+
+console.log(2+2)
